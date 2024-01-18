@@ -1,0 +1,5 @@
+# Project exclude paths
+/maven-project01/target/
+/springboot-aop-quickstart/target/
+/springboot-web-req-resp/target/
+/tlias-web-managenent/target/
